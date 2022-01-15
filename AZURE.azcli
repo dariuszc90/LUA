@@ -1,2 +1,0 @@
-Connect-AzAccount -TenantId b568e80f-6428-453e-ac73-8f7638ca49ea -Subscription 57a285ef-48b9-432c-ad69-a7e2e3cf38a4
-Get-AzContext
